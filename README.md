@@ -80,5 +80,3 @@ That usually means choosing practical architecture, documenting trade-offs clear
 - LinkedIn: [linkedin.in/mvrajakishore](https://linkedin.in/mvrajakishore)
 - Medium: [medium.com/vrajakishore](https://medium.com/vrajakishore)
 
-
-If this README is intended for the profile page, place it in a public repository named `vrajakishore` and commit it to the default branch.[web:93][web:111]
