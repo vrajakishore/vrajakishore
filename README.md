@@ -1,6 +1,6 @@
 # Hi there, I'm Vraja Kishore 👋
 
-Senior AI Solutions Engineer with experience across AI platforms, Oracle databases, real-time data streaming, cloud infrastructure, and enterprise solution engineering. Public GitHub activity shows an active engineering profile, and GitHub profile READMEs are designed to present a concise overview when placed in a public repository matching the username.[web:94][web:93]
+Senior AI Solutions Engineer with experience across AI platforms, Oracle databases, real-time data streaming, cloud infrastructure, and enterprise solution engineering.
 
 ## About me
 
@@ -39,7 +39,7 @@ I enjoy solving hard technical problems end to end, from infrastructure setup an
 - Data Guard, backup and recovery, patching, migrations, and disaster recovery
 - Exadata, engineered systems, and private cloud appliance environments
 - Oracle C3 environments and GPU-backed infrastructure exposure for high-performance workloads
-- Podman-based container workflows and infrastructure experimentation around database and platform workloads; Podman is an open source container management tool for running containers, images, volumes, and pods.[web:125][web:123]
+- Podman-based container workflows and infrastructure experimentation around database and platform workloads; Podman is an open source container management tool for running containers, images, volumes, and pods.
 
 ## Tech stack
 
@@ -76,7 +76,7 @@ That usually means choosing practical architecture, documenting trade-offs clear
 
 ## Connect
 
-- GitHub: [github.com/vrajakishore](https://github.com/vrajakishore) [web:94]
+- GitHub: [github.com/vrajakishore](https://github.com/vrajakishore)
 - LinkedIn: [linkedin.in/mvrajakishore](https://linkedin.in/mvrajakishore)
 - Medium: [medium.com/vrajakishore](https://medium.com/vrajakishore)
 
