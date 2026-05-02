@@ -1,82 +1,85 @@
-# Hi there, I'm Vraja Kishore 👋
+<h1 align="center">Hi, I'm Vraja Kishore 👋</h1>
+<p align="center">
+  <em>Senior AI Solutions Engineer — building production-grade AI, data, and cloud systems.</em>
+</p>
 
-Senior AI Solutions Engineer with experience across AI platforms, Oracle databases, real-time data streaming, cloud infrastructure, and enterprise solution engineering.
+<p align="center">
+  <a href="https://github.com/vrajakishore"><img src="https://img.shields.io/github/followers/vrajakishore?label=Follow&style=social" alt="GitHub followers"/></a>
+  <a href="https://linkedin.in/mvrajakishore"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/vrajakishore"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" alt="Medium"/></a>
+</p>
 
-## About me
+---
 
-I work at the intersection of AI, data, and cloud systems, with a strong focus on building practical solutions that can move from demo to production. My background includes Oracle database engineering, Data Guard and high availability, streaming architectures, cloud infrastructure, and applied AI workflows for enterprise use cases.
+## 🚀 About me
 
-I enjoy solving hard technical problems end to end, from infrastructure setup and platform integration to search, automation, developer tooling, and agent experiences. The goal is always the same: build systems that are reliable, useful, and easy to operate.
+I work at the intersection of **AI, data, and cloud** — designing systems that move from demo to production without losing reliability along the way.
 
-## What I work on
+My background spans Oracle database engineering, high availability and disaster recovery, real-time streaming, multi-cloud infrastructure, and applied AI for enterprise workflows. I enjoy solving hard problems end to end: from infra and integration to retrieval, automation, and agent experiences.
 
-- Azure AI, agent workflows, and enterprise AI solution design
-- Oracle database platforms, performance, HA/DR, and engineered systems
-- Real-time data streaming with Kafka and change data capture patterns
-- Cloud architecture across Azure, AWS, and OCI
-- Developer productivity, automation, and technical proof-of-concepts
-- Search, retrieval, and knowledge integration for enterprise content
+> The goal is always the same — build systems that are **reliable, useful, and easy to operate**.
 
-## Core experience
+---
 
-### AI and cloud
+## 🧭 What I focus on
 
-- Azure AI solutions, agent patterns, and applied enterprise AI workflows
-- AI search, retrieval pipelines, and knowledge-grounded experiences
-- Cloud-native architecture and secure enterprise integration patterns
-- Developer-focused prototyping and technical enablement
+- 🤖 **Enterprise AI** — Azure AI Foundry, agent workflows, RAG, knowledge-grounded experiences
+- 🔎 **Search & retrieval** — connecting SharePoint, indexes, and operational data to agents
+- 🛢️ **Oracle platforms** — performance, HA/DR, Data Guard, Exadata, engineered systems
+- 🔄 **Streaming & CDC** — Kafka, event-driven pipelines, real-time integration
+- ☁️ **Cloud architecture** — Azure, AWS, OCI; secure enterprise integration patterns
+- 🧪 **Developer tooling** — automation, prototypes, and technical enablement
 
-### Data and streaming
+---
 
-- Kafka, event streaming, and real-time integration architectures
-- CDC pipelines and data movement from operational systems
-- Platform troubleshooting, performance validation, and production readiness
-- Data flow design for scale, resilience, and observability
+## 🛠️ Tech stack
 
-### Oracle and infrastructure
+| Domain        | Tools & Technologies                                              |
+| ------------- | ----------------------------------------------------------------- |
+| **AI / ML**   | Azure AI, Foundry, Agent frameworks, RAG, AI Search               |
+| **Data**      | Oracle, Kafka, CDC, SQL, PL/SQL, Streaming architectures          |
+| **Cloud**     | Azure · AWS · OCI                                                 |
+| **Infra**     | Linux, Podman, Docker, HA/DR, Performance tuning                  |
+| **Languages** | Python, SQL, PL/SQL, Bash                                         |
+| **Tools**     | GitHub, VS Code, Copilot, Shell scripting, Automation             |
 
-- Oracle Database administration with deep experience in performance and operations
-- Data Guard, backup and recovery, patching, migrations, and disaster recovery
-- Exadata, engineered systems, and private cloud appliance environments
-- Oracle C3 environments and GPU-backed infrastructure exposure for high-performance workloads
-- Podman-based container workflows and infrastructure experimentation around database and platform workloads; Podman is an open source container management tool for running containers, images, volumes, and pods.
+---
 
-## Tech stack
+## 🌱 Currently exploring
 
-```text
-AI / ML        Azure AI, Foundry, Agent workflows, Search, RAG
-Data           Oracle, Kafka, CDC, SQL, Streaming architectures
-Cloud          Azure, AWS, OCI
-Infra          Linux, Podman, Docker, HA/DR, Performance tuning
-Tools          GitHub, VS Code, Automation, Shell scripting
-Languages      SQL, Python, Bash, PL/SQL
-```
+- Practical patterns for **enterprise AI agents** and grounded retrieval
+- Bridging **data platforms ↔ retrieval ↔ automation**
+- **Containerized labs** with Podman around database and AI workloads
+- Sharing implementation-driven learnings through code and writing
 
-## Current focus
+---
 
-- Building practical AI solutions for enterprise scenarios
-- Connecting knowledge sources such as SharePoint and search indexes to agent experiences
-- Exploring better ways to combine data platforms, retrieval, and automation
-- Sharing implementation-driven learnings through code, technical discussions, and public repositories
-
-## Selected themes you may find here
+## 📌 You'll find here
 
 - AI agent demos and enterprise solution patterns
-- Search and retrieval integrations
-- Oracle database automation and operational tooling
-- Streaming and event-driven architectures
+- Search & retrieval integrations
+- Oracle automation and operational tooling
+- Streaming / event-driven architectures
 - Cloud infrastructure experiments
-- Containerized labs using Podman and related tooling
+- Containerized labs using Podman
 
-## Philosophy
+---
 
-I prefer hands-on engineering over buzzwords. Good systems should be observable, secure, scalable, and understandable by the teams that run them.
+## 💭 Philosophy
 
-That usually means choosing practical architecture, documenting trade-offs clearly, validating assumptions early, and building with operations in mind from the start.
+> Hands-on engineering over buzzwords.
+> Good systems should be **observable, secure, scalable, and understandable** by the teams that run them.
 
-## Connect
+That means choosing practical architecture, documenting trade-offs clearly, validating assumptions early, and building with operations in mind from day one.
 
-- GitHub: [github.com/vrajakishore](https://github.com/vrajakishore)
-- LinkedIn: [linkedin.in/mvrajakishore](https://linkedin.in/mvrajakishore)
-- Medium: [medium.com/vrajakishore](https://medium.com/vrajakishore)
+---
 
+## 📫 Connect
+
+- 🐙 **GitHub** — [github.com/vrajakishore](https://github.com/vrajakishore)
+- 💼 **LinkedIn** — [linkedin.in/mvrajakishore](https://linkedin.in/mvrajakishore)
+- ✍️ **Medium** — [medium.com/vrajakishore](https://medium.com/vrajakishore)
+
+---
+
+<p align="center"><sub>⚡ Always shipping. Always learning.</sub></p>
